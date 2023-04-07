@@ -22,5 +22,8 @@ public class Movement : MonoBehaviour
         {
             transform.Translate(speed * Vector2.left * Time.deltaTime, 0);
         }
+        playerbound = transform.position;
+        playerbound.x = Mathf.Clamp(playerbound.x, -3f, 3f);
+        transform.position = playerbound;
     }
 }
