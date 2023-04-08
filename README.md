@@ -2,8 +2,7 @@
 # google drive link - https://drive.google.com/file/d/1F3Rnj6yquWGGJ77iG1-V-EFvcaz5b1vz/view?usp=sharing
 Zynga gaming hackathon
 1)How they have designed the game?
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-ans----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------ans----
 Create a new Unity project: Open Unity, click on "New" to create a new project, and choose 2D from the options.
 
 Set up the scene: Create a new scene by clicking on "File" > "New Scene." Then, add a camera by right-clicking in the hierarchy window and selecting "Camera." Set the camera's position to (0,0,-10) to view the scene from a distance.
@@ -24,7 +23,6 @@ Test and refine: Test your game and make adjustments to the player movement, ene
 
 
 2) What Architecture they have used. How they created the art, from where did they source the art assets. Who created the art?
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ans---
 There are different architectural patterns that can be used to develop a 2D space shooter game in Unity, and the choice of architecture will depend on the specific requirements and goals of the project. Here are a few possible options:
