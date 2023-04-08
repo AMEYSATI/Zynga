@@ -3,7 +3,7 @@
 Zynga gaming hackathon
 
 How they have designed the game?
----------------------------------------------------------------------------------------------------------------------------------------------------------------------ans----
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Create a new Unity project: Open Unity, click on "New" to create a new project, and choose 2D from the options.
 
 Set up the scene: Create a new scene by clicking on "File" > "New Scene." Then, add a camera by right-clicking in the hierarchy window and selecting "Camera." Set the camera's position to (0,0,-10) to view the scene from a distance.
