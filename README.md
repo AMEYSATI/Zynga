@@ -2,6 +2,7 @@
 # google drive link - https://drive.google.com/file/d/1F3Rnj6yquWGGJ77iG1-V-EFvcaz5b1vz/view?usp=sharing
 Zynga gaming hackathon
 1)How they have designed the game?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ans----
 Create a new Unity project: Open Unity, click on "New" to create a new project, and choose 2D from the options.
 
@@ -20,9 +21,12 @@ Add collision detection: Create a new script called "CollisionDetection" and wri
 Add UI elements: Create a new canvas object and add a Text component to display the player's score. You can update the score each time an enemy is destroyed.
 
 Test and refine: Test your game and make adjustments to the player movement, enemy behavior, and game mechanics as needed
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 2) What Architecture they have used. How they created the art, from where did they source the art assets. Who created the art?
-3) ans---
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ans---
 There are different architectural patterns that can be used to develop a 2D space shooter game in Unity, and the choice of architecture will depend on the specific requirements and goals of the project. Here are a few possible options:
 
 Object-Oriented Programming (OOP): This is a commonly used approach in game development, where game objects are represented as classes, with properties and behaviors defined in the code. This architecture can work well for smaller projects with a straightforward game structure and relatively simple gameplay mechanics.
@@ -31,8 +35,9 @@ Model-View-Controller (MVC): This architecture is commonly used in software deve
 
 Scriptable Objects: This architecture can be used to create reusable data-driven components that can be easily configured and updated. Scriptable Objects can be used to define enemy behavior, weapon properties, and other game parameters.
 since our team didn't have any artist so we decided to take the assets from unity store and various online resourses.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 What is the future scope of the game? Can you see it becoming a multiplayer game? If yes, how
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ans---
 The future scope of a 2D space shooter game depends on various factors such as advancements in technology, changing trends in the gaming industry, and evolving player preferences. However, 2D space shooter games are still popular among players, and there are many opportunities to innovate and expand on the genre.
 
